@@ -8,5 +8,7 @@ package ca.stejacob.git.first;
  *
  */
 public class NewExampleClass {
-
+	public NewExampleClass(){
+		System.out.println("Testing this new class");
+	}
 }
